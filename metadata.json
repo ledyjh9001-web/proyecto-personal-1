@@ -1,0 +1,6 @@
+{
+  "name": "CONCRETE HEAT",
+  "description": "Underground Latin trap, dembow, and reggaeton crate archive, stems console, and hardware mastering deck.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
